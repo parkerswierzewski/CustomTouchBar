@@ -67,7 +67,7 @@
   // Current Date
   {
     "type": "timeButton",
-    "formatTemplate": "dd/MM/yyyy",
+    "formatTemplate": "yyyy/MM/dd",
     "locale": "en_US",
     "timeZone": "est",
     "align": "right"
